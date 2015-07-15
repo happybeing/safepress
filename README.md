@@ -8,6 +8,14 @@ Planning and prototyping, seeking collaborators for code, branding, design, docu
 
 Wanting to help is more important than a particular skill or experience, although obviously certain tasks need people with certains skills or ability to learn. Of course, if you do have experience and want to contribute (even just with guidance and feedback) please get in touch.
 
+### License: GPLv3
+
+### Rewards
+
+SAFE Network plans to reward popular applications automatically with Safecoin, its built in (non-blockchain <= very important!) crypto currency, but all contributions, work, and input provided to this project are entirely voluntary and will fall under the GPLv3 license.
+
+If this project or application receives significant Safecoin rewards, either automatically from SAFE Network or directly from users, ways to distribute these amongst significant contributors can be discussed and I hope agreed. In the absence of agreement, or dissent by any parties, any and all rewards received by or on behalf of this project or application will be distributed at the discretion of theWebalyst.
+
 ### Contact Points
 
 Email: gh-safepress AT happybeing.com
