@@ -38,7 +38,7 @@ Slack: https://projectsafe.slack.com
     - write a script to do this by operating on the CouchDB (or better using one CouchDB to create another)
 
 - [ ] Planning & Collaboration
-  - [ ] set-up additional collaboration tools (e.g. Trello, Jira...) for tasking, ?extend as appropriate?
+  - [ ] set-up additional collaboration tools (e.g. Trello, Jira...) as appropriate. See [suggestions here](https://forum.safenetwork.io/t/a-web-app-that-builds-websites-blogs-on-safe-network/4417/7?u=happybeing)
 
 - [ ] Branding & Graphic Design (start with SAFEpress but keep open to change later)
   - [ ] define tasks under this heading - ?owner?
