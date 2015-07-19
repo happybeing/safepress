@@ -16,6 +16,10 @@ SAFE Network plans to reward popular applications automatically with Safecoin, i
 
 If this project or application receives significant Safecoin rewards, either automatically from SAFE Network or directly from users, ways to distribute these amongst significant contributors can be discussed and I hope agreed. In the absence of agreement, or dissent by any parties, any and all rewards received by or on behalf of this project or application will be distributed at the discretion of theWebalyst.
 
+### SAFEpress Documentation
+
+- [SAFEpress Outline Design.md](https://github.com/theWebalyst/safepress/blob/master/design/SAFEpress-outline-design.md)
+
 ### Contact Points
 
 Email: gh-safepress AT happybeing.com
@@ -31,6 +35,7 @@ Slack: https://projectsafe.slack.com
 ## TODO - please extend, update, ?claim? (and submit as a PR)
 
 - [ ] Prototyping
+  - [x] write [SAFEpress Outline Design.md](https://github.com/theWebalyst/safepress/blob/master/design/SAFEpress-outline-design.md) for comment
   - [ ] design data types, structures, operations - ?theWebalyst?
   - [ ] design dream code webside API (JavaScript) - ?owner?
   - [ ] create (import?) dummy website data and store in CouchDB - ?owner?
