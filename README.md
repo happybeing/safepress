@@ -22,9 +22,11 @@ If this project or application receives significant Safecoin rewards, either aut
 
 ### Contact Points
 
-Email: gh-safepress AT happybeing.com
+Email:   gh-safepress AT happybeing.com
 
-Forum: http://forum.safenetwork.io
+Website: http://safepress.io
+
+SAFE Network Forum: http://forum.safenetwork.io
 
 Launch post, and a good place for public discussion, especially with potential users:
 
@@ -36,17 +38,28 @@ Slack: https://projectsafe.slack.com
 
 - [ ] Prototyping
   - [x] write [SAFEpress Outline Design.md](https://github.com/theWebalyst/safepress/blob/master/design/SAFEpress-outline-design.md) for comment
-  - [ ] design data types, structures, operations - ?theWebalyst?
-  - [ ] design dream code webside API (JavaScript) - ?owner?
+  - [ ] research WordPress API and use to develop Dreamcode SAFEpress API for front-end web devs - @mvanzyl
+  - [ ] design initial data types, structures, operations - @theWebalyst
+  - [ ] design [dreamcode](http://nobackend.org/) front-end web app API (JavaScript) - ?owner?
   - [ ] create (import?) dummy website data and store in CouchDB - ?owner?
   - [ ] generate additional data structures (indexes) from raw documents (posts/pages/comments)
     - write a script to do this by operating on the CouchDB (or better using one CouchDB to create another)
 
 - [ ] Planning & Collaboration
   - [ ] set-up additional collaboration tools (e.g. Trello, Jira...) as appropriate. See [suggestions here](https://forum.safenetwork.io/t/a-web-app-that-builds-websites-blogs-on-safe-network/4417/7?u=happybeing)
+  - [ ] switch this task list over to Trello - ?owner?
+  - [x] set initial target - @theWebalyst
+    - basic dreamcode API plus simple website example (blog) working by time SAFE Network REST ready
 
 - [ ] Branding & Graphic Design (start with SAFEpress but keep open to change later)
   - [ ] define tasks under this heading - ?owner?
   - [ ] ...
+
+- [ ] Marketing
+  - [x] Reserve safepress.io safepress.org safepress.community (redirect to safepress.io) - @theWebalyst
+  - [x] Create placeholder website at http://safepress.io - @theWebalyst
+  - [x] Reserve twitter a/c & configure (http://twitter.com/safepress - @theWebalyst
+  - [ ] ...
+
 - [ ] Other - feel free to extend/modify/?claim? this and above TODO list items and submit as a PR
-  - [ ] 
+  - [ ] ...
