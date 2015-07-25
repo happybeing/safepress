@@ -40,7 +40,9 @@ Slack: https://projectsafe.slack.com
   - [x] write [SAFEpress Outline Design.md](https://github.com/theWebalyst/safepress/blob/master/design/SAFEpress-outline-design.md) for comment
   - [ ] research WordPress API and use to develop Dreamcode SAFEpress API for front-end web devs - @mvanzyl
   - [ ] design initial data types, structures, operations - @theWebalyst
-  - [ ] design [dreamcode](http://nobackend.org/) front-end web app API (JavaScript) - ?owner?
+  - [ ] design [dreamcode](http://nobackend.org/) front-end web app API (JavaScript) - @joshuef
+    - [x] create basic react app for POC of UI
+    - [ ] create chrome app for basic filesystem write upon post 'creation'
   - [ ] create (import?) dummy website data and store in CouchDB - ?owner?
   - [ ] generate additional data structures (indexes) from raw documents (posts/pages/comments)
     - write a script to do this by operating on the CouchDB (or better using one CouchDB to create another)
