@@ -1,12 +1,18 @@
 # safepress
-A website/blog creator (CMS) for SAFE Network = a SAFE web app that creates websites/web apps that run on SAFE
+SAFEpress is two things:
+
+1) a website/blog creator (CMS) for SAFE Network, built on top of...
+
+2) a SAFE web app framework for front-end web developers building web apps on SAFE Network.
 
 *SAFE Network is a new end-to-end encrypted, secure, decentralised internet. See http://safenetwork.io
 
 ## Status
 Planning and prototyping, seeking collaborators for code, branding, design, documentation. 
 
-Wanting to help is more important than a particular skill or experience, although obviously certain tasks need people with certains skills or ability to learn. Of course, if you do have experience and want to contribute (even just with guidance and feedback) please get in touch.
+Wanting to help is more important than a particular skill or experience, although obviously certain tasks need people with certains skills or ability to learn. Of course, if you do have experience and want to contribute (even just with guidance and feedback) please get in touch. If you're interested, take a look at the TODO list below, and if you want to help by doing something that's not there, add it to the list and submit the change as a pull request. 
+
+Go on, make my day! :-)
 
 ### License: GPLv3
 
@@ -22,7 +28,7 @@ If this project or application receives significant Safecoin rewards, either aut
 
 ### Contact Points
 
-Email:   gh-safepress AT happybeing.com
+Email:   team [ A T ] safepress.io
 
 Website: http://safepress.io
 
