@@ -55,7 +55,7 @@ Slack: https://projectsafe.slack.com
 
 - [ ] Planning & Collaboration
   - [ ] set-up additional collaboration tools (e.g. Trello, Jira...) as appropriate. See [suggestions here](https://forum.safenetwork.io/t/a-web-app-that-builds-websites-blogs-on-safe-network/4417/7?u=happybeing)
-  - [ ] switch this task list over to Trello - ?owner?
+  - [x] switch this task list over to Trello - Southside
   - [x] set initial target - @theWebalyst
     - basic dreamcode API plus simple website example (blog) working by time SAFE Network REST ready
 
