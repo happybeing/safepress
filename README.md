@@ -1,9 +1,8 @@
-# safepress
-SAFEpress is two things:
+# SAFEpress
+The SAFEpress project is actually two things:
 
-1) a website/blog creator (CMS) for SAFE Network, built on top of...
-
-2) a SAFE web app framework for front-end web developers building web apps on SAFE Network.
+- the SAFEpress application (a WordPress like content management system for SAFE Network)
+- the SafeApp Web Framework (a noBackend Dreamcode API for building web apps on SAFE Network)
 
 *SAFE Network is a new end-to-end encrypted, secure, decentralised internet. See http://safenetwork.io
 
