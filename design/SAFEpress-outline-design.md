@@ -20,6 +20,16 @@ Developers will create the look, feel and functionality of a website by modifyin
 
 Support for data access and manipulation will be through a client-side JavaScript API, that performs core SAFEpress operations by accessing storage and messaging on SAFENetwork. The SAFEpress core API is equivalent to the WordPress core API, and not normally touched by a website developer. In the case of SAFEpress the core API is a javascript include, rather than server side PHP and SQL.
 
+### SAFEpress Architecture
+
+The SAFEpress project is actually two things:
+
+- the SAFEpress application (a WordPress like content management system for SAFE Network)
+- the SafeApp Web Framework (a noBackend Dreamcode API for building web apps on SAFE Network)
+
+Both depend on a web browser plugin that intercepts "safe:" URLs and directs them to the REST API. The plugin also provides Javascript access to the SAFE Network REST API. The SafeApp Web Framework sits on top of the plugin Javascript API, and the app itself on top of this, as shown in the [SAFEpress Web App Architecture diagram.](https://github.com/theWebalyst/safepress/blob/master/design/diagrams/safe-web-app-architecture.png)
+
+
 ### Operations:
 SAFEpress will take care of operations by providing a JavaScript UI with different capabilities depending on the privileges of the "logged in" user. So "owner" can modify anything, "author" can create and submit a post for consideration, and "visitor" can post a comment for consideration. Only the owner (or administrators) can review and publish content, which they do by responding to "requests" (for publication, update or delete) received from authors, and visitors. 
 
